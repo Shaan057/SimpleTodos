@@ -1,8 +1,5 @@
 /* Write your CSS here */
 
-* {
-  border: 1px solid red;
-}
 .bg-container {
   background-color: #ffc2a0;
   min-height: 100vh;
